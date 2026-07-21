@@ -10,11 +10,11 @@ This repository contains the experiment code for the paper **“Observable Geome
 ## Requirements
 
 - Python 3.10+
-- NumPy
-- SciPy
-- Matplotlib
-- Seaborn
-- Qiskit
+- NumPy 2.4.6
+- SciPy 1.17.1
+- Matplotlib 3.11.0
+- Seaborn 0.13.2
+- Qiskit 2.4.2
 
 Install the required packages with:
 
