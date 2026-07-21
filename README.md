@@ -27,7 +27,7 @@ python -m pip install numpy scipy matplotlib seaborn qiskit
 Place both Python files in the same directory, then run:
 
 ```bash
-python Exp_observable_manifolds.py
+python exp_observable_manifolds.py
 ```
 
 The script uses the numerical configuration reported in the paper: 8 qubits, four circuit-candidate families, 24 selected generators, and 6 VQE trials.
